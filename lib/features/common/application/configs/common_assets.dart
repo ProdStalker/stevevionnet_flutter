@@ -1,0 +1,5 @@
+class CommonAssets {
+  // DATA
+
+  /// IMAGES;
+}
